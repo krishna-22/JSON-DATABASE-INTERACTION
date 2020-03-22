@@ -1,0 +1,21 @@
+<html>
+    <head>
+       <script src="script/fetch.js"></script>
+    </head>
+    <body>
+        <h1> WELCOME </h1>
+        <form name='f1' onsubmit="additem(event)">
+            Enter id: <input type='text' id='txtid' placeholder="id"><br>
+            ENTER NAME: <input type='text' id='txtname' placeholder="name"><br>
+          <input type="submit" value="Add">
+        </form>
+        <span id="myspan">
+
+        </span>
+        <form name='ffx' onsubmit="edititem(event)">
+            Enter id: <input type='text' id='txtid' disabled><br>
+            ENTER NAME: <input type='text' id='txtname' placeholder="name"><br>
+          <input type="submit" value="Update">
+        </form>
+    </body>
+</html>

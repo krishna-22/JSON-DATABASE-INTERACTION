@@ -1,0 +1,38 @@
+{
+  "food": [
+    {
+      "id": 103,
+      "itemname": "curd"
+    },
+    {
+      "id": "11",
+      "itemname": "murali"
+    },
+    {
+      "id": "12",
+      "itemname": "kiran"
+    },
+    {
+      "id": "00",
+      "itemname": "kartheek"
+    },
+    {
+      "id": "15",
+      "itemname": "nani"
+    },
+    {
+      "id": "19",
+      "itemname": "xxx"
+    },
+    {
+      "id": "100",
+      "itemname": "sai"
+    }
+  ],
+  "hotel": [
+    {
+      "hotelname": "x",
+      "location": "hyderabad"
+    }
+  ]
+}
